@@ -4,9 +4,9 @@ I'm a Senior Software Development Engineer with extensive experience in designin
 
 ### 🔧 Skills & Technologies
 
-- **Languages:** Java, Python, C++, C#, JavaScript (React)
-- **Databases:** Elasticsearch, OpenSearch, MongoDB, Redis, PostgreSQL
-- **Technologies:** Apache Kafka, Apache Flink, AWS (S3, Athena, Glue, Lambda, EC2, MSK Connect, SNS), Docker, Jenkins, Kubernetes, Superset, Airflow, Grafana, Git, Postman, CI/CD
+- **Languages:** Java, Python, GoLang, C++, JavaScript, React, TypeScript
+- **Databases:** Elasticsearch, OpenSearch, MongoDB, Redis, PostgreSQL, Cassandra
+- **Technologies:** Apache Kafka, Apache Flink, AWS (S3, Athena, Glue, Lambda, EC2, MSK Connect, SNS, SQS, EKS, IAM), Docker, Jenkins, Kubernetes, Superset, Airflow, Grafana, Git, Postman, CI/CD
 - **Architecture & Algorithms:** Microservices, Domain-Driven Design, RESTful APIs, Distributed Systems, Scalable Architecture, OLTP/OLAP/ETL Pipelines
 
 ### 🔬 Research & Projects
