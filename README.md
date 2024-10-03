@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Mrudhul Guda
 
-I'm a Software engineer specializing in high-performance, scalable systems and data processing. Expert in search infrastructure (Elasticsearch, OpenSearch), data pipelines (Kafka, Spark, Flink), DB's (PostgreSQL, MongoDB, Redis), and microservices architecture. Proficient in analytics, building ETL, OLTP, OLAP pipelines, and query optimization. Skilled in both front (React, TypeScript) and backend (Java, Python, and Go), transitioning monolithic systems, and implementing robust, efficient software solutions. Passionate about leveraging cutting-edge technologies to drive innovation in software engineering.
+I'm a Software engineer specializing in high-performance microservices, scalable systems, and data processing. Expert in search infrastructure (Elasticsearch, OpenSearch), data pipelines (Kafka, Spark, Flink), DB's (PostgreSQL, MongoDB, Redis), and microservices architecture. Proficient in analytics, building ETL, OLTP, OLAP pipelines, and query optimization. Skilled in both front (React, TypeScript) and backend (Java, Python, and Go), transitioning monolithic systems, and implementing robust, efficient software solutions. Passionate about leveraging cutting-edge technologies to drive innovation in software engineering.
 
 ### 🔧 Skills & Technologies
 
